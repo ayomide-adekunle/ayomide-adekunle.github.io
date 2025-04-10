@@ -1,24 +1,56 @@
-Thank you for using our app! This Privacy Policy outlines how we handle user data within our app. Since we do not collect any personal information, your privacy is of utmost importance to us.
-# Information We Do Not Collect
-We do not collect or store any user data, including but not limited to personal information, device information, or usage information.
+Effective Date: 04/04/2025
 
-# How We Use Your Information
-Since we do not collect any user information, we do not use it for any purpose.
+1. Introduction
+This Privacy Policy explains how TotalMenApp (“we”, “us”, or “our”) collects, uses, and protects your personal information.
 
-# Information Sharing
-We do not share any user information with third parties because we do not collect any user information.
+2. Information We Collect
+We may collect:
 
-# Your Choices
-As we do not collect any user data, there are no opt-out options or data access/update features.
+Name and email (optional, for community features)
 
-# Children's Privacy
+App usage data and preferences
 
-Our app is designed to be suitable for all audiences, including children. We do not knowingly collect personal information from children under the age of 13.
+Custom goals and progress logs you create
 
-# Changes to This Policy
+Device and analytics information (e.g. via Firebase)
 
-Since our app does not collect user data, there will be no changes to this Privacy Policy related to data collection. Any updates will be made for other app-related purposes and will not impact user privacy.
+3. How We Use Your Information
+We use your data to:
 
-# Contact Us
+Provide and improve the app experience
 
-If you have any questions or concerns about this Privacy Policy, please contact us at mailayomide@gmail.com or ayoysf@gmail.com
+Track user progress and goal setting
+
+Maintain community features
+
+Analyze performance via tools like Firebase
+
+4. Data Sharing
+We do not sell your data. We may share anonymized data with:
+
+Firebase (Google)
+
+Apple App Store (for subscriptions and purchases)
+
+5. Data Storage
+Your data may be stored securely using third-party services such as Firebase or Google Drive.
+
+6. Your Rights
+You may request to:
+
+View, edit, or delete your data
+
+Opt-out of data tracking or analytics
+
+Cancel your account and remove all stored data
+
+To make a request, contact us at [your email].
+
+7. Children’s Privacy
+We do not knowingly collect personal data from children under 13.
+
+8. Changes to This Policy
+We may update this policy from time to time. Updates will be posted in-app or on our website.
+
+9. Contact
+For questions, email us at: totalmenapp@gmail.com
