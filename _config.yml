@@ -1,3 +1,4 @@
-theme: null
 title: TotalMenApp
 description: Empower your goals with accountability, tracking, and community
+sass:
+  style: compressed
